@@ -1,5 +1,8 @@
-5b280f17c7d74eb17fbe4853c0dced966d30d53f7892b5c56586cd4fd3609569 *hisrory_of_vim.txt
-74cdb6c9fc528a446f43c8c15f770bdc5634f2e974face3d41f95c8db7d879dd *history_of_vim.txt
 | date: 15.04.2024 21:57:40 | filename: history_of_vim.txt | hash: 21bc1ec4b4a7f53a9b854d90e95b7cd0f71c82c1e5b9c406a42cafab1f2fd118 | algoritm: none |
-| date: 15.04.2024 21:59:20 | filename: [A[A[B[Bhistory_of_vim.txt | hash:  | algoritm: sha256 |
 | date: 15.04.2024 22:00:45 | filename: history_of_vim.txt | hash: d68454a18f5fd7b4e56aace500acf28ff018226f3daa674d76e2a5cd75f4a0ae | algoritm: sha256 |
+| date: 17.04.2024 09:47:48 | filename: test.txt | hash: cf242872020cb5952792779d17cef8b00b2c83cf38e618cb973535637a83a260 | algoritm: sha256 |
+| date: 15.04.2024 22:00:45 | filename: history_of_vim.txt | hash: d68454a18f5fd7b4e56aace500acf28ff018226f3daa674d76e2a5cd75f4a0ae | algoritm: sha256 |
+| date: 15.04.2024 22:00:45 | filename: history_of_vim.txt | hash: d68454a18f5fd7b4e56aace500acf28ff018226f3daa674d76e2a5cd75f4a0ae | algoritm: sha256 |
+| date: 21.04.2024 17:26:02 | filename: test.txt | hash: 8ba14f2d6e657063459b213902ac5a6b7ccae7d4a5dcf1e7adb0e12903287d00 | algoritm: sha256 |
+| date: 21.04.2024 17:26:46 | filename: history_of_vim.txt | hash: f27df657fcee86efd527f4ff415d6fc93bb56c267fc8ce6e917bc7e84171a666 | algoritm: sha256 |
+| date: 21.04.2024 17:34:08 | filename: history_of_vim.txt | hash: daa4729479a9ef4ca06b6f267ad5c81a892a7b46b651e9e57cf04ce6b643be71 | algoritm: sha256 |
